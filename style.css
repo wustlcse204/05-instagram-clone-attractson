@@ -1,0 +1,224 @@
+
+
+body {
+  font-size: 14px;
+  font-family: verdana;
+  margin: 0;
+  padding: 0;
+  background-color:  #f0f0f5;
+}
+
+.forbg input:focus{
+  background-color: yellow;
+}
+
+.body{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  margin: 10px;
+  display:flex;
+}
+
+.content {
+  width: 700px;
+  height: 2000px;
+  margin: 10px;
+}
+
+.post{
+  background-color: white;
+  width: 640px;
+  height: 830px;
+  border: lightGray;
+  border-style: solid;
+  border-width: thin;
+  margin-bottom: 60px;
+}
+
+.firstline{
+  height: 50px;
+  width: 640px;
+}
+
+.mike img{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 8px;
+  float: left;
+  border-radius: 50%;
+
+}
+
+
+.miketext{
+  margin-top: 14px;
+  float: right;
+  padding-right: 530px;
+}
+
+.save{
+  float:right;
+  margin-right: 20px;
+}
+
+.type1{
+  margin-left: 8px;
+  height: 26px;
+  width: 640px;
+}
+
+.type2{
+  margin-left: 8px;
+  height: 26px;
+  width: 640px;
+}
+.type3{
+  margin-left: 8px;
+  height: 26px;
+  width: 640px;
+  color: grey;
+}
+
+.comment{
+  width:610px;
+}
+
+.suggest{
+  background-color: white;
+  width: 640px;
+  height: 260px;
+  border: lightGray;
+  border-style: solid;
+  border-width: thin;
+  margin-bottom: 60px;
+  padding:20px;
+}
+
+.firsth{
+  width: 600px;
+  height: 20px;
+}
+.sug{
+  float:left;
+  font-weight: bold;
+  display: flex;
+}
+
+.see{
+  color: #00B2FF;
+  float:right;
+}
+
+.sugbody{
+  margin-top: 19px;
+  width: 600px;
+  height: 100px;
+}
+
+.sugbox{
+  border-style: solid;
+  border-width: thin;
+  color: grey;
+  width: 186px;
+  height: 170px;
+  float: left;
+  margin-right: 7px;
+  margin-left: 7px;
+  text-align: center;
+}
+
+.x{
+  float:right;
+  margin-right: 10px;
+}
+
+.propic{
+  margin-top: 8px;
+  margin-bottom: 5px;
+  margin-left: 26px;
+}
+
+.propic1{
+  margin-top: 9px;
+  margin-bottom: 4px;
+  margin-left: 26px;
+}
+
+.acct{
+  color:cornflowerblue;
+}
+
+.reason{
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+
+
+.sidebar {
+  float: right;
+  position: relative;
+  height: 2000px;
+  width: 300px;
+  margin-left: 30px;
+}
+
+.sideprofile{
+  padding:10px;
+  width: 310px;
+  height: 63px;
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+}
+
+
+.sidestories{
+  padding:10px;
+  width: 300px;
+  height: 360px;
+}
+
+.side1st{
+  width: 300px;
+  height: 30px;
+}
+
+.side1st1{
+  float:left;
+}
+
+.side1st2{
+  float:right;
+}
+
+.policies{
+  padding:10px;
+  font-size: 11px;
+}
+
+.insta{
+  margin-top: 10px;
+}
+
+.storylist{
+  margin-top: -10px;
+  width: 300px;
+  height: 360px;
+  overflow: scroll;
+}
+
+.storystructure{
+  margin-bottom: 4px;
+  width: 300px;
+}
+
+.storypic img{
+  border-radius: 50%;
+}
+
+.arrow{
+  float:right;
+  margin-top: -120px;
+  margin-right: -20px;
+}
